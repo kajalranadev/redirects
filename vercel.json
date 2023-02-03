@@ -1,6 +1,7 @@
 {
     "cleanUrls": true,
     "redirects": [
-        { "source": "/", "destination": "https://github.com/kajalranadev" }
+        { "source": "/", "destination": "https://github.com/kajalranadev" },
+        { "source": "/access", "destination": "https://login.montgomery.idm.oclc.org/login?url=https://www.oreilly.com/library/view/temporary-access/" }
     ]
 }
